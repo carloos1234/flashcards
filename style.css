@@ -7,3 +7,7 @@ body{
     background: url('ing/bg-desktop.webop') ;
     font-family:'bai jamjuree',sans-serif;
 }
+#container{
+    display: flex;
+    flex-wrap:
+}
